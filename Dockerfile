@@ -3,7 +3,7 @@
 # based on https://github.com/jessfraz/dockerfiles/blob/master/awscli/Dockerfile
 #
 # howto:
-#  run awscli with mounted Docker volume:
+#  run aws-cli with mounted Docker volume:
 #    docker run \
 #     -e AWS_DEFAULT_REGION=$AWS_DEFAULT_REGION \
 #     -e AWS_DEFAULT_OUTPUT=$AWS_DEFAULT_OUTPUT \
